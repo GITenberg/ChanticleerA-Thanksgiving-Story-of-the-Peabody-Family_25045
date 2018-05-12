@@ -1,0 +1,30 @@
+_repo: ChanticleerA-Thanksgiving-Story-of-the-Peabody-Family_25045
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mathews, Cornelius
+    alias: Matthews, Cornelius
+    birthdate: 1817
+    deathdate: 1889
+    gutenberg_agent_id: '25209'
+    url: http://www.gutenberg.org/2009/agents/25209
+    wikipedia: http://en.wikipedia.org/wiki/Cornelius_Mathews
+description: ''
+gutenberg_issued: '2008-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thanksgiving Day -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Chanticleer
+
+  A Thanksgiving Story of the Peabody Family'
+url: http://www.gutenberg.org/ebooks/25045
